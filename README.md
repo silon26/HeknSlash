@@ -54,3 +54,5 @@ if(keyboard_check_released(vk_down)){
     sprite_index = spr_girl_idle_down;
     image_speed = 0.01
 }
+
+//hi
